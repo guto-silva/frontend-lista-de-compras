@@ -1,0 +1,29 @@
+
+.cabecalho {
+    background-color: #FFAC44;
+    height: 8em;
+    padding-top: 3em;
+    margin-bottom: 2em;
+}
+.cabecalho h1 {
+    font-family: 'Roboto';
+    font-size: 2em;
+    text-align: center;
+    font-weight: 600;
+    color: black;
+}
+
+.conteudo-principal th, td {
+    font-family: 'Roboto';
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #cccc;
+}
